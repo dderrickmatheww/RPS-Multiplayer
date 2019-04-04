@@ -1,0 +1,14 @@
+.jumbotron{
+    background-image: url("../images/hogwarts.jpg");
+    background-size: cover;
+    background-position: right;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.panel-heading {
+background-color: gray !important;
+border-color: darkgray !important;
+}
+.panel {
+    border-color: darkgray !important;
+}
